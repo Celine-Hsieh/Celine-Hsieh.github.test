@@ -1,4 +1,4 @@
-# celinehsieh68.github.io
+# Building the Forge Platform deploy to github
 
 Place the built BIM model on a publicly observable web platform (with Autodesk Forge API)
 

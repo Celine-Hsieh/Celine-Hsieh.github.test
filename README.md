@@ -8,7 +8,8 @@ Place the built BIM model on a publicly observable web platform (with Autodesk F
 * Building the Forge Platform
 ![image](https://user-images.githubusercontent.com/69034494/163195198-e066b623-6d49-4d06-a3e4-3bb80ff31b44.png)
 
-* Supported Translation Formats
+* Supported Translation Formats 
+
 3DM/ 3DS/ DWF/ DWG/ PDF/ RVT/ OBJ/ STL
 
 * Basic Toolbar

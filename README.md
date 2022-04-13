@@ -10,7 +10,7 @@ Place the built BIM model on a publicly observable web platform (with Autodesk F
 
 * Supported Translation Formats 
 
-3DM/ 3DS/ DWF/ DWG/ PDF/ RVT/ OBJ/ STL
+> 3DM/ 3DS/ DWF/ DWG/ PDF/ RVT/ OBJ/ STL
 
 * Basic Toolbar
 ![image](https://user-images.githubusercontent.com/69034494/163195834-749e66a9-8f80-4f13-8ccd-f7cef42c918c.png)

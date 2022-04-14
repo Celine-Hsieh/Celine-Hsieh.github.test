@@ -1,11 +1,11 @@
-# Building the Forge Platform deploy to github
+# Build the Forge deploy to github
 
 Place the built BIM model on a publicly observable web platform (with Autodesk Forge API)
 
 * Build a WebAPP platform
 ![image](https://user-images.githubusercontent.com/69034494/163194514-f906ae23-09c8-4d1d-9c15-91571f6f81bc.png)
 
-* Building the Forge Platform
+* Build the Forge Platform
 ![image](https://user-images.githubusercontent.com/69034494/163195198-e066b623-6d49-4d06-a3e4-3bb80ff31b44.png)
 
 * Supported Translation Formats 
